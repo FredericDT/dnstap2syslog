@@ -1,0 +1,3 @@
+[submodule "dnstap-ldns-tcp"]
+	path = dnstap-ldns-tcp
+	url = git@github.com:FredericDT/dnstap-ldns-tcp.git
